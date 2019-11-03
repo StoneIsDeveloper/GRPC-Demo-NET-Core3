@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GrpcDemo/.vs/GrpcDemo/v16
+/GrpcDemo/GrpcClient/bin/Debug/netcoreapp3.0
+/GrpcDemo/GrpcClient/obj
+/GrpcDemo/GrpcServer/obj
+/GrpcDemo/GrpcServer/bin/Debug/netcoreapp3.0
